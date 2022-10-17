@@ -2,7 +2,7 @@
 	<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 	</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Dhrupad+Chakraborty+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Diptamoy+Mitra+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
 </p>
 
 <p><em>A Junior of <a href="https://aot.edu.in/">Academy of Technology</a></br>
@@ -11,7 +11,7 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [100daysofcodechallenge](https://discord.com/invite/sqFRzrj7f3) and [Hacktoberfest 2022](https://hacktoberfest.com)
+- 🔭 I’m currently working on [Hacktoberfest 2022](https://hacktoberfest.com)
 
 - 🌱 I’m currently learning **Front-end Web Development,Data Structures and Algorithms and Machine Learning**
 
@@ -21,9 +21,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-## My Holopin Badges
-
-[![@dhrupad17's Holopin board](https://holopin.me/dhrupad17)](https://holopin.io/@dhrupad17)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
