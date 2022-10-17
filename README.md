@@ -74,7 +74,7 @@
 
   <br/>
 	 <a href="https://github.com/Diptomoy/github-readme-stats"><img alt="Diptamoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Diptomoy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 	<a href="https://github.com/Diptomoy/github-readme-stats"><img alt="Dhrupad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diptomoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 	<a href="https://github.com/Diptomoy/github-readme-stats"><img alt="Diptamoy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diptomoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
 
  <br/>
@@ -92,11 +92,11 @@
 
 <br/>
 
-<a href="https://github.com/Diptomoy/github-readme-activity-graph"><img alt="Dhrupad Chakraborty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Diptomoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Diptomoy/github-readme-activity-graph"><img alt="Diptamoy Mitra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Diptomoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-<img src="https://media4.giphy.com/media/xThuWtNFKZWG6fUFe8/100.webp" width="1000" height="250">
+<!-- <img src="https://media4.giphy.com/media/xThuWtNFKZWG6fUFe8/100.webp" width="1000" height="250"> -->
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
