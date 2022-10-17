@@ -2,7 +2,7 @@
 	<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 	</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHi+👋,+I'm+Diptamoy+Mitra+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+👋,+I'm+Diptamoy+Mitra+🦉+;A+Student+🧑🏼‍💻;A+Learner+🤓;ok+no+more+designation+I+have!+😂;">
 </p>
 
 <p><em>A Junior of <a href="https://aot.edu.in/">Academy of Technology</a></br>
