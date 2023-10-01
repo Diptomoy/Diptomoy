@@ -1,4 +1,4 @@
-My main Repo: - https://github.com/Diptamoy-Mitra
+My main github a/c: - https://github.com/Diptamoy-Mitra
 
 <p align="center">
 	<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
