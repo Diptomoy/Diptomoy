@@ -1,3 +1,5 @@
+My main Repo: - https://github.com/Diptamoy-Mitra
+
 <p align="center">
 	<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 	</p>
@@ -11,7 +13,7 @@
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47t45ns6se3i88b18jnng123ofz7gojiqmit5gprgs&rid=200.webp&ct=g" width="300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-- 🔭 I’m currently working on [Hacktoberfest 2022](https://hacktoberfest.com)
+- 🔭 I’m currently working on [Hacktoberfest 2023](https://hacktoberfest.com)
 
 - 🌱 I’m currently learning **Front-end Web Development,Data Structures and Algorithms and Machine Learning**
 
